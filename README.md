@@ -1,8 +1,8 @@
-# PDF Converter
+# PDF Converter :page_facing_up:
 
 PDF Converter is a simple Python application for converting PDF files to various image formats. It includes a graphical user interface (GUI).
 
-## Installation
+## Installation :computer:
 
 ### Manual Installation
 
@@ -13,7 +13,7 @@ To manually install PDF Converter, follow these steps:
 3. Install the required packages: `pip install -r requirements.txt`
 4. Run the application: `python main.py`
 
-## Usage
+## Usage :hammer_and_wrench:
 
 1. Open the PDF Converter application.
 2. Click the "Choose File" button to select a PDF file.
